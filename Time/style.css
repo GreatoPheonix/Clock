@@ -1,0 +1,32 @@
+body
+{
+    background-color: #222831;
+    font-family: 'Krona One', sans-serif;
+    overflow: hidden;
+}
+
+h1
+{
+    color: #fff;
+    font-family: calibri, sans-serif;
+    font-weight: lighter;
+    font-size: 100px;
+    margin: 20px;
+}
+
+#boxy
+{
+    width: 90%;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    margin-left: 50px;
+    overflow: hidden;
+}
+
+p
+{
+    display: block;
+    font-size: 80px;
+}
